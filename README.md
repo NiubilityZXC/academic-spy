@@ -1,4 +1,4 @@
-# 学术间谍 / Academic Spy skill
+# 学术间谍 / Academic Spy
 
 学术间谍（Academic Spy）是一个面向个人归档的 Canvas 导出项目。
 
